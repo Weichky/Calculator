@@ -1,0 +1,3 @@
+/home/weichky/test/CMakeFiles/test.dir
+/home/weichky/test/CMakeFiles/edit_cache.dir
+/home/weichky/test/CMakeFiles/rebuild_cache.dir

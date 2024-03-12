@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/srcs/calcimp.cpp.o CMakeFiles/test.dir/srcs/calculator.cpp.o CMakeFiles/test.dir/srcs/highprecicalc.cpp.o CMakeFiles/test.dir/srcs/main.cpp.o CMakeFiles/test.dir/srcs/maxandmin.cpp.o -o output/test 
